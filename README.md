@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilal-faisal
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m currently learning TypeScript and DSA
+- 🌱 I’m currently learning TypeScript and working on DSA
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can contact me on bilalfaisal.developer@gmail.com
 
