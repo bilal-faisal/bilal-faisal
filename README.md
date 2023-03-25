@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilal-faisal
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m a JS developer, currently learning NextJS
+- 🌱 I’m a JavaScript developer, currently learning Next.js with Tailwind
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can contact me on bilalfaisal.developer@gmail.com
 
