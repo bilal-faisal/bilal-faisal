@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilal-faisal
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m a JavaScript developer, currently learning Next.js with Tailwind
+- 🌱 I’m a Web2.0 developer, currently learning Web3.0 and blockchain concepts.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can contact me on bilalfaisal.developer@gmail.com
 
