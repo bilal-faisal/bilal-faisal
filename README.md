@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilal-faisal
 <!--- - 👀 I’m interested in ... --->
-- 🌱 I’m a Web2.0 developer, currently learning Web3.0 and blockchain concepts.
+- 🌱 I’m a Web Developer, Pioneering in AI, Web3 & Metaverse Technologies.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can contact me on bilalfaisal.developer@gmail.com
 
